@@ -1,1 +1,1 @@
-<button onclick=“alert(‘Boom!’);”>DO NOT PRESS!</button>
+alert("Hello World!")
